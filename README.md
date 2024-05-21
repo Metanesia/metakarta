@@ -5,3 +5,6 @@ The concept of a modernized SmartCity is integrated with a Management Informatio
 AIoTML is an abbreviation for Artificial Intelligence of Thing, a combination of Artificial Intelligence (AI), Internet of Think (IoT) and Machine Learning (ML), is an integrated modeling languagea. 
 This aims to achieve more efficient AIoTML operations, improve human-machine interaction, and facilitate integrity in all aspects of the security system and improve management, data analytics and Open Data. 
 ## The Open Data
+read repo open data
+https://github.com/Metanesia/Open-Data/commit/ad24264d37c49396f1ee4c222d7ce8819e0d4ed6
+
