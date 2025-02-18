@@ -8,3 +8,10 @@ This aims to achieve more efficient AIoTML operations, improve human-machine int
 read repo open data
 https://github.com/Metanesia/Open-Data/commit/ad24264d37c49396f1ee4c222d7ce8819e0d4ed6
 
+## Systematic Build Centralization in 3C
+Integrated System Build Technology Environment as Solution for the future and human  culture in this earth and to keep cyrle of live all over the human live in 🌎🌍🌍.
+## Menjaga, Memelihara dan  Menyimpan Data informasi sebagai Sumber barometer 
+Keep Informed were continuing to maintain up-to-date information where valid and updated data is the main center in the life of a nation and state. Data as information vice versa and used as a reference as a barometer for projects or development of any model system must be absolutely validated and up to date in accordance with the rules and regulations So the important role of the synergy of all lines involved in this activity model is to build  ### Media Center
+## Maintaining data and information as well as managing 3M as mentioned above means that today's life is faced with the reality of developing a large generative AI language model which of course must be accompanied by data storage which does not necessarily have to be large but must be extensive so that the data is freely stored in the available space, namely data storage. because AI must be balanced with infrastructure and other complete supporting facilities, in this case we call it the AI Program with a development scale with lsmbsng plus, so it is written like this AI+. In order to support the AI+ program, we are building a garage, so in this HQL we are building garisinya ysitu  ;
+### Data Center.
+### Centralization of periodic development. The third follow-up is to build a center for disaster management and mitigation activities. Usually we are a post-disaster rehabilitation center, so we build a trauma center or crisis center.
